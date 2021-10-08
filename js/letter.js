@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Gửi cậu", 
-				"Gửi người tớ yêu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ sẽ dành cả phần đời còn lại để yêu cậu để mang lại hạnh phúc cho cậu！<br><br><p style='float:right; display:block; width:80px;'>Yêu Cậu</p>"],
+				"Gửi người tớ yêu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Còn tớ, tớ sẽ dành cả phần đời còn lại để yêu cậu, để mang lại hạnh phúc cho cậu！<br><br><p style='float:right; display:block; width:80px;'>Yêu Cậu</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
