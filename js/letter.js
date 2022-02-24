@@ -7,7 +7,7 @@ $("#open").click(function(){
 	{
 		var typed = new Typed('.letter', {
 			strings: ["^1000Gửi cậu", 
-				"Gửi cậu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thế gian này đã dành không biết bao nhiêu giấy mực để viết về tình yêu<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Không biết đúng không nhưng số của mình là 36 <br><br><p style='float:right; display:block; width:80px;'>Hello Cậu</p>"],
+				"Gửi cậu<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# <br><br><p style='float:right; display:block; width:80px;'>Hello Cậu</p>"],
 			typeSpeed: 100,
 			backSpeed: 50
 		});
